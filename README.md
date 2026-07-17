@@ -3,7 +3,7 @@
 A content-based Movie Recommender System built with **Streamlit**, **Scikit-learn**, and the **TMDB API**. The application recommends movies based on their genres using **TF-IDF Vectorization** and **Cosine Similarity**, and displays high-quality movie posters.
 
 ---
-
+##Live Link - https://movie-recommendation-system-by-kartik.streamlit.app/
 ## 🚀 Features
 
 - 🔍 Search movies by title
